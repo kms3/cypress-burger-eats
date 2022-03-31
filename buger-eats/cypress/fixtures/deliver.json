@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Karina Silva",
+        "cpf": "00000012480",
+        "email": "karina@gmail.com",
+        "whatsapp": "81995963429",
+        "address": {
+            "postalcode": "53080300",
+            "street": "Rua do Rouxinol",
+            "number": "150",
+            "details": "CASA",
+            "district": "Rio Doce",
+            "city_state": "Olinda/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Karina Mota",
+        "cpf": "0BB000124AA",
+        "email": "karinamota@gmail.com",
+        "whatsapp": "81988573794",
+        "address": {
+            "postalcode": "53080300",
+            "street": "Rua do Rouxinol",
+            "number": "270",
+            "details": "CASA",
+            "district": "Rio Doce",
+            "city_state": "Olinda/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Karina Silva",
+        "cpf": "10293296480",
+        "email": "karina.com.br",
+        "whatsapp": "81988573794",
+        "address": {
+            "postalcode": "53080300",
+            "street": "Rua do Rouxinol",
+            "number": "270",
+            "details": "CASA",
+            "district": "Rio Doce",
+            "city_state": "Olinda/PE"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    }
+}
